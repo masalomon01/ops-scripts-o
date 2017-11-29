@@ -1,0 +1,3493 @@
+Attempting to read 164435 nodes from http://trace1.smartrek.webfactional.com/newyork/prediction/ and 588268 nodes from /home/ubuntu/Java/Restlet/Production/Data/newyork.
+The links with tdtr info number is: --79
+In total we found this number of link pairs associated with intersections:486606
+daily FFS update completed at Mon Aug 29 03:02:22 UTC 2016
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160828/crystal_output_276.json
+Reading crystal output completed at Mon Aug 29 03:02:22 UTC 2016	Total Link Affected	196	;from:	http://54.148.119.185/crystal_output/production/newyork/20160828/crystal_output_276.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/0.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/1.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/2.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/3.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/4.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/5.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/6.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/7.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/8.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/9.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/10.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/11.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/12.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/13.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/14.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/15.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/16.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/17.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/18.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/19.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/20.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/21.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/22.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/23.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/24.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/25.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/26.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/27.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/28.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/29.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/30.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/31.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/32.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/33.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/34.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/35.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/36.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/37.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/38.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/39.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/40.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/41.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/42.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/43.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/44.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/45.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/46.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/47.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/48.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/49.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/50.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/51.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/52.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/53.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/54.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/55.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/56.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/57.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/58.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/59.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/60.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/61.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/62.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/63.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/64.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/65.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/66.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/67.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/68.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/69.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/70.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/71.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/72.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/73.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/74.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/75.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/76.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/77.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/78.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/79.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/80.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/81.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/82.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/83.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/84.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/85.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/86.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/87.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/88.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/89.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/90.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/91.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/92.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/93.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/94.json
+http://trace1.smartrek.webfactional.com/newyork/prediction/20160828/95.json
+travel time hash size	303692
+reading done: full network	4095432	588269	travel time hash size	303692
+Main code ends here
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160828/crystal_output_277.json
+Reading crystal output completed at Mon Aug 29 03:05:01 UTC 2016	Total Link Affected	207	;from:	http://54.148.119.185/crystal_output/production/newyork/20160828/crystal_output_277.json
+5-minute travel time update completed at 23:05:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160828/crystal_output_278.json
+Reading crystal output completed at Mon Aug 29 03:10:01 UTC 2016	Total Link Affected	207	;from:	http://54.148.119.185/crystal_output/production/newyork/20160828/crystal_output_278.json
+5-minute travel time update completed at 23:10:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1395.0
+9738	184931	115045	38704
+9738	184931	115045	38704
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1410.0
+9738	184931	115045	38704
+9738	184931	115045	38704
+fftt is:	9999.0	 current travel time for FFRoute is:	8.393
+7.8765
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1394.0
+9738	103290	115045	38704
+9738	103290	115045	38704
+fftt is:	9999.0	 current travel time for FFRoute is:	8.393
+7.8765
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160828/crystal_output_279.json
+Reading crystal output completed at Mon Aug 29 03:15:01 UTC 2016	Total Link Affected	247	;from:	http://54.148.119.185/crystal_output/production/newyork/20160828/crystal_output_279.json
+5-minute travel time update completed at 23:15:01
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160828/crystal_output_280.json
+Reading crystal output completed at Mon Aug 29 03:20:01 UTC 2016	Total Link Affected	249	;from:	http://54.148.119.185/crystal_output/production/newyork/20160828/crystal_output_280.json
+5-minute travel time update completed at 23:20:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1402.0
+77128	115045	50096	50097
+77128	115045	50096	50097
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160828/crystal_output_281.json
+Reading crystal output completed at Mon Aug 29 03:25:02 UTC 2016	Total Link Affected	249	;from:	http://54.148.119.185/crystal_output/production/newyork/20160828/crystal_output_281.json
+5-minute travel time update completed at 23:25:02
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1407.0
+49444	157331	50096	50097
+49444	157331	50096	50097
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+fftt is:	9999.0	 current travel time for FFRoute is:	18.652500000000003
+19.5625
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1408.0
+122557	133354	50096	50097
+122557	133354	50096	50097
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1408.0
+122557	133354	50096	50097
+122557	133354	50096	50097
+fftt is:	9999.0	 current travel time for FFRoute is:	5.737471074401702
+4.5725
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1409.0
+155806	151132	50096	50097
+155806	151132	50096	50097
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1409.0
+151132	100250	50096	50097
+151132	100250	50096	50097
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1410.0
+30205	34832	50096	50097
+30205	34832	50096	50097
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160828/crystal_output_282.json
+Reading crystal output completed at Mon Aug 29 03:30:01 UTC 2016	Total Link Affected	249	;from:	http://54.148.119.185/crystal_output/production/newyork/20160828/crystal_output_282.json
+5-minute travel time update completed at 23:30:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+124093	81451	278737	122139
+124093	81451	278737	122139
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+fftt is:	9999.0	 current travel time for FFRoute is:	18.652500000000003
+19.5625
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160828/crystal_output_283.json
+Reading crystal output completed at Mon Aug 29 03:35:01 UTC 2016	Total Link Affected	251	;from:	http://54.148.119.185/crystal_output/production/newyork/20160828/crystal_output_283.json
+5-minute travel time update completed at 23:35:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+74828	83237	130592	21469
+74828	83237	21469	130592
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160828/crystal_output_284.json
+Reading crystal output completed at Mon Aug 29 03:40:01 UTC 2016	Total Link Affected	251	;from:	http://54.148.119.185/crystal_output/production/newyork/20160828/crystal_output_284.json
+5-minute travel time update completed at 23:40:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1421.0
+359277	74849	130592	21469
+359277	74849	21469	130592
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1424.0
+12199	86133	130592	21469
+12199	86133	21469	130592
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160828/crystal_output_285.json
+Reading crystal output completed at Mon Aug 29 03:45:01 UTC 2016	Total Link Affected	251	;from:	http://54.148.119.185/crystal_output/production/newyork/20160828/crystal_output_285.json
+5-minute travel time update completed at 23:45:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160828/crystal_output_286.json
+Reading crystal output completed at Mon Aug 29 03:50:01 UTC 2016	Total Link Affected	251	;from:	http://54.148.119.185/crystal_output/production/newyork/20160828/crystal_output_286.json
+5-minute travel time update completed at 23:50:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160828/crystal_output_287.json
+Reading crystal output completed at Mon Aug 29 03:55:01 UTC 2016	Total Link Affected	251	;from:	http://54.148.119.185/crystal_output/production/newyork/20160828/crystal_output_287.json
+5-minute travel time update completed at 23:55:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_0.json
+Reading crystal output completed at Mon Aug 29 04:00:01 UTC 2016	Total Link Affected	269	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_0.json
+5-minute travel time update completed at 00:00:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+fftt is:	9999.0	 current travel time for FFRoute is:	18.652500000000003
+19.5625
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_1.json
+Reading crystal output completed at Mon Aug 29 04:05:01 UTC 2016	Total Link Affected	270	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_1.json
+5-minute travel time update completed at 00:05:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_2.json
+Reading crystal output completed at Mon Aug 29 04:10:01 UTC 2016	Total Link Affected	270	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_2.json
+5-minute travel time update completed at 00:10:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+fftt is:	9999.0	 current travel time for FFRoute is:	18.652500000000003
+19.5625
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_3.json
+Reading crystal output completed at Mon Aug 29 04:15:02 UTC 2016	Total Link Affected	279	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_3.json
+5-minute travel time update completed at 00:15:02
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_4.json
+Reading crystal output completed at Mon Aug 29 04:20:01 UTC 2016	Total Link Affected	279	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_4.json
+5-minute travel time update completed at 00:20:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 30.0
+65854	122494	119850	136981
+65854	122494	119850	136981
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 45.0
+65854	122494	119850	136981
+65854	122494	119850	136981
+fftt is:	9999.0	 current travel time for FFRoute is:	8.2735
+6.507500000000001
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_5.json
+Reading crystal output completed at Mon Aug 29 04:25:01 UTC 2016	Total Link Affected	279	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_5.json
+5-minute travel time update completed at 00:25:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_6.json
+Reading crystal output completed at Mon Aug 29 04:30:01 UTC 2016	Total Link Affected	279	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_6.json
+5-minute travel time update completed at 00:30:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 45.0
+119850	136981	57134	313848
+119850	136981	57134	313848
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_7.json
+Reading crystal output completed at Mon Aug 29 04:35:01 UTC 2016	Total Link Affected	279	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_7.json
+5-minute travel time update completed at 00:35:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 38.0
+101179	127121	278737	122139
+101179	127121	278737	122139
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 60.0
+101179	127121	278737	122139
+101179	127121	278737	122139
+fftt is:	9999.0	 current travel time for FFRoute is:	24.126499999999982
+22.886730038962714
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_8.json
+Reading crystal output completed at Mon Aug 29 04:40:01 UTC 2016	Total Link Affected	279	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_8.json
+5-minute travel time update completed at 00:40:02
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 41.0
+76564	102761	79216	220483
+76564	102761	79216	220483
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+fftt is:	9999.0	 current travel time for FFRoute is:	18.652500000000003
+18.07527796264935
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_9.json
+Reading crystal output completed at Mon Aug 29 04:45:01 UTC 2016	Total Link Affected	289	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_9.json
+5-minute travel time update completed at 00:45:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_10.json
+Reading crystal output completed at Mon Aug 29 04:50:01 UTC 2016	Total Link Affected	289	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_10.json
+5-minute travel time update completed at 00:50:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 51.0
+79216	33403	77980	10633
+33403	79216	77980	10633
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 51.0
+33403	59091	77980	10633
+59091	33403	77980	10633
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 52.0
+19619	93414	77980	10633
+19619	93414	77980	10633
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 53.0
+106399	132397	77980	10633
+106399	132397	77980	10633
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 53.0
+106399	132397	77980	10633
+106399	132397	77980	10633
+fftt is:	9999.0	 current travel time for FFRoute is:	8.047499999999998
+6.943999999999997
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 53.0
+106399	132397	77980	10633
+106399	132397	77980	10633
+fftt is:	9999.0	 current travel time for FFRoute is:	8.047499999999998
+6.943999999999997
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 53.0
+106399	132397	77980	10633
+106399	132397	77980	10633
+fftt is:	9999.0	 current travel time for FFRoute is:	8.047499999999998
+6.943999999999997
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 54.0
+132397	117625	77980	10633
+132397	117625	77980	10633
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 54.0
+132397	117625	77980	10633
+132397	117625	77980	10633
+fftt is:	9999.0	 current travel time for FFRoute is:	7.617
+6.518999999999998
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 54.0
+117625	75259	77980	10633
+117625	75259	77980	10633
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 54.0
+75259	43651	77980	10633
+75259	43651	77980	10633
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 54.0
+43651	43650	77980	10633
+43651	43650	77980	10633
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_11.json
+Reading crystal output completed at Mon Aug 29 04:55:01 UTC 2016	Total Link Affected	289	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_11.json
+5-minute travel time update completed at 00:55:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 60.0
+134679	138868	105321	106032
+134679	138868	105321	106032
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_12.json
+Reading crystal output completed at Mon Aug 29 05:00:01 UTC 2016	Total Link Affected	289	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_12.json
+5-minute travel time update completed at 01:00:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+fftt is:	9999.0	 current travel time for FFRoute is:	18.652500000000003
+18.13600000000001
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 64.0
+64347	149360	307956	501643
+64347	149360	307956	501643
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 64.0
+91988	85590	307956	501643
+91988	85590	307956	501643
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_13.json
+Reading crystal output completed at Mon Aug 29 05:05:02 UTC 2016	Total Link Affected	289	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_13.json
+5-minute travel time update completed at 01:05:02
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 65.0
+147092	72511	307956	501643
+147092	72511	307956	501643
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 65.0
+6342	31423	307956	501643
+6342	31423	307956	501643
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 67.0
+133473	109380	307956	501643
+133473	109380	501643	307956
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_14.json
+Reading crystal output completed at Mon Aug 29 05:10:01 UTC 2016	Total Link Affected	289	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_14.json
+5-minute travel time update completed at 01:10:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+fftt is:	9999.0	 current travel time for FFRoute is:	18.652500000000003
+18.096000000000004
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_15.json
+Reading crystal output completed at Mon Aug 29 05:15:01 UTC 2016	Total Link Affected	302	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_15.json
+5-minute travel time update completed at 01:15:01
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_16.json
+Reading crystal output completed at Mon Aug 29 05:20:01 UTC 2016	Total Link Affected	302	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_16.json
+5-minute travel time update completed at 01:20:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 90.0
+354549	72510	278737	122139
+354549	72510	278737	122139
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 80.0
+354549	72510	278737	122139
+354549	72510	278737	122139
+fftt is:	9999.0	 current travel time for FFRoute is:	30.6195
+30.342999999999954
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_17.json
+Reading crystal output completed at Mon Aug 29 05:25:02 UTC 2016	Total Link Affected	302	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_17.json
+5-minute travel time update completed at 01:25:02
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_18.json
+Reading crystal output completed at Mon Aug 29 05:30:01 UTC 2016	Total Link Affected	311	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_18.json
+5-minute travel time update completed at 01:30:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_19.json
+Reading crystal output completed at Mon Aug 29 05:35:01 UTC 2016	Total Link Affected	311	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_19.json
+5-minute travel time update completed at 01:35:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+fftt is:	9999.0	 current travel time for FFRoute is:	18.652500000000003
+17.585500000000014
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_20.json
+Reading crystal output completed at Mon Aug 29 05:40:01 UTC 2016	Total Link Affected	311	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_20.json
+5-minute travel time update completed at 01:40:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 102.0
+115777	325090	278737	122139
+325090	278738	278737	122139
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 102.0
+325090	278738	278737	122139
+325090	278738	278737	122139
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 102.0
+325090	278738	278737	122139
+325090	278738	278737	122139
+fftt is:	9999.0	 current travel time for FFRoute is:	2.737
+2.737
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 103.0
+278737	122139	354549	72510
+278737	122139	354549	72510
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 120.0
+278737	122139	354549	72510
+278737	122139	354549	72510
+fftt is:	9999.0	 current travel time for FFRoute is:	27.008688539960946
+25.229153465126576
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_21.json
+Reading crystal output completed at Mon Aug 29 05:45:01 UTC 2016	Total Link Affected	311	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_21.json
+5-minute travel time update completed at 01:45:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 109.0
+278737	122139	354549	72510
+278737	122139	354549	72510
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_22.json
+Reading crystal output completed at Mon Aug 29 05:50:01 UTC 2016	Total Link Affected	311	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_22.json
+5-minute travel time update completed at 01:50:01
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_23.json
+Reading crystal output completed at Mon Aug 29 05:55:01 UTC 2016	Total Link Affected	311	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_23.json
+5-minute travel time update completed at 01:55:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_24.json
+Reading crystal output completed at Mon Aug 29 06:00:01 UTC 2016	Total Link Affected	311	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_24.json
+5-minute travel time update completed at 02:00:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_25.json
+Reading crystal output completed at Mon Aug 29 06:05:01 UTC 2016	Total Link Affected	311	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_25.json
+5-minute travel time update completed at 02:05:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 126.0
+84018	153841	354549	72510
+84018	153841	354549	72510
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_26.json
+Reading crystal output completed at Mon Aug 29 06:10:01 UTC 2016	Total Link Affected	311	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_26.json
+5-minute travel time update completed at 02:10:02
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_27.json
+Reading crystal output completed at Mon Aug 29 06:15:01 UTC 2016	Total Link Affected	314	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_27.json
+5-minute travel time update completed at 02:15:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_28.json
+Reading crystal output completed at Mon Aug 29 06:20:01 UTC 2016	Total Link Affected	314	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_28.json
+5-minute travel time update completed at 02:20:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_29.json
+Reading crystal output completed at Mon Aug 29 06:25:01 UTC 2016	Total Link Affected	314	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_29.json
+5-minute travel time update completed at 02:25:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 148.0
+354549	72510	354549	72510
+72510	134592	354549	72510
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_30.json
+Reading crystal output completed at Mon Aug 29 06:30:02 UTC 2016	Total Link Affected	315	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_30.json
+5-minute travel time update completed at 02:30:02
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+fftt is:	9999.0	 current travel time for FFRoute is:	18.652500000000003
+19.10449999999999
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_31.json
+Reading crystal output completed at Mon Aug 29 06:35:01 UTC 2016	Total Link Affected	315	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_31.json
+5-minute travel time update completed at 02:35:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_32.json
+Reading crystal output completed at Mon Aug 29 06:40:01 UTC 2016	Total Link Affected	315	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_32.json
+5-minute travel time update completed at 02:40:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_33.json
+Reading crystal output completed at Mon Aug 29 06:45:01 UTC 2016	Total Link Affected	315	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_33.json
+5-minute travel time update completed at 02:45:02
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_34.json
+Reading crystal output completed at Mon Aug 29 06:50:01 UTC 2016	Total Link Affected	315	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_34.json
+5-minute travel time update completed at 02:50:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+fftt is:	9999.0	 current travel time for FFRoute is:	18.652500000000003
+19.10449999999999
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_35.json
+Reading crystal output completed at Mon Aug 29 06:55:01 UTC 2016	Total Link Affected	315	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_35.json
+5-minute travel time update completed at 02:55:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_36.json
+Reading crystal output completed at Mon Aug 29 07:00:01 UTC 2016	Total Link Affected	315	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_36.json
+5-minute travel time update completed at 03:00:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_37.json
+Reading crystal output completed at Mon Aug 29 07:05:01 UTC 2016	Total Link Affected	315	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_37.json
+5-minute travel time update completed at 03:05:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_38.json
+Reading crystal output completed at Mon Aug 29 07:10:01 UTC 2016	Total Link Affected	315	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_38.json
+5-minute travel time update completed at 03:10:02
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_39.json
+Reading crystal output completed at Mon Aug 29 07:15:01 UTC 2016	Total Link Affected	317	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_39.json
+5-minute travel time update completed at 03:15:01
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_40.json
+Reading crystal output completed at Mon Aug 29 07:20:01 UTC 2016	Total Link Affected	319	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_40.json
+5-minute travel time update completed at 03:20:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_41.json
+Reading crystal output completed at Mon Aug 29 07:25:01 UTC 2016	Total Link Affected	319	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_41.json
+5-minute travel time update completed at 03:25:02
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_42.json
+Reading crystal output completed at Mon Aug 29 07:30:01 UTC 2016	Total Link Affected	322	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_42.json
+5-minute travel time update completed at 03:30:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_43.json
+Reading crystal output completed at Mon Aug 29 07:35:01 UTC 2016	Total Link Affected	324	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_43.json
+5-minute travel time update completed at 03:35:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_44.json
+Reading crystal output completed at Mon Aug 29 07:40:01 UTC 2016	Total Link Affected	324	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_44.json
+5-minute travel time update completed at 03:40:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_45.json
+Reading crystal output completed at Mon Aug 29 07:45:01 UTC 2016	Total Link Affected	324	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_45.json
+5-minute travel time update completed at 03:45:01
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_46.json
+Reading crystal output completed at Mon Aug 29 07:50:01 UTC 2016	Total Link Affected	324	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_46.json
+5-minute travel time update completed at 03:50:01
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_47.json
+Reading crystal output completed at Mon Aug 29 07:55:01 UTC 2016	Total Link Affected	324	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_47.json
+5-minute travel time update completed at 03:55:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_48.json
+Reading crystal output completed at Mon Aug 29 08:00:02 UTC 2016	Total Link Affected	331	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_48.json
+5-minute travel time update completed at 04:00:02
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+20160829
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_49.json
+Reading crystal output completed at Mon Aug 29 08:05:01 UTC 2016	Total Link Affected	331	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_49.json
+5-minute travel time update completed at 04:05:01
+daily travel time update completed at 04:05:01
+daily FFS update completed at Mon Aug 29 08:06:02 UTC 2016
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_50.json
+Reading crystal output completed at Mon Aug 29 08:10:01 UTC 2016	Total Link Affected	247	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_50.json
+5-minute travel time update completed at 04:10:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_51.json
+Reading crystal output completed at Mon Aug 29 08:15:01 UTC 2016	Total Link Affected	247	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_51.json
+5-minute travel time update completed at 04:15:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_52.json
+Reading crystal output completed at Mon Aug 29 08:20:01 UTC 2016	Total Link Affected	254	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_52.json
+5-minute travel time update completed at 04:20:01
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_53.json
+Reading crystal output completed at Mon Aug 29 08:25:01 UTC 2016	Total Link Affected	254	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_53.json
+5-minute travel time update completed at 04:25:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_54.json
+Reading crystal output completed at Mon Aug 29 08:30:01 UTC 2016	Total Link Affected	261	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_54.json
+5-minute travel time update completed at 04:30:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_55.json
+Reading crystal output completed at Mon Aug 29 08:35:01 UTC 2016	Total Link Affected	262	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_55.json
+5-minute travel time update completed at 04:35:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_56.json
+Reading crystal output completed at Mon Aug 29 08:40:01 UTC 2016	Total Link Affected	262	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_56.json
+5-minute travel time update completed at 04:40:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_57.json
+Reading crystal output completed at Mon Aug 29 08:45:01 UTC 2016	Total Link Affected	263	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_57.json
+5-minute travel time update completed at 04:45:01
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_58.json
+Reading crystal output completed at Mon Aug 29 08:50:01 UTC 2016	Total Link Affected	263	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_58.json
+5-minute travel time update completed at 04:50:02
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_59.json
+Reading crystal output completed at Mon Aug 29 08:55:01 UTC 2016	Total Link Affected	268	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_59.json
+5-minute travel time update completed at 04:55:01
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_60.json
+Reading crystal output completed at Mon Aug 29 09:00:01 UTC 2016	Total Link Affected	268	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_60.json
+5-minute travel time update completed at 05:00:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_61.json
+Reading crystal output completed at Mon Aug 29 09:05:01 UTC 2016	Total Link Affected	268	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_61.json
+5-minute travel time update completed at 05:05:01
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_62.json
+Reading crystal output completed at Mon Aug 29 09:10:01 UTC 2016	Total Link Affected	268	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_62.json
+5-minute travel time update completed at 05:10:02
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_63.json
+Reading crystal output completed at Mon Aug 29 09:15:01 UTC 2016	Total Link Affected	287	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_63.json
+5-minute travel time update completed at 05:15:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_64.json
+Reading crystal output completed at Mon Aug 29 09:20:01 UTC 2016	Total Link Affected	291	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_64.json
+5-minute travel time update completed at 05:20:01
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_65.json
+Reading crystal output completed at Mon Aug 29 09:25:01 UTC 2016	Total Link Affected	297	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_65.json
+5-minute travel time update completed at 05:25:01
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_66.json
+Reading crystal output completed at Mon Aug 29 09:30:01 UTC 2016	Total Link Affected	310	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_66.json
+5-minute travel time update completed at 05:30:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_67.json
+Reading crystal output completed at Mon Aug 29 09:35:01 UTC 2016	Total Link Affected	311	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_67.json
+5-minute travel time update completed at 05:35:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_68.json
+Reading crystal output completed at Mon Aug 29 09:40:01 UTC 2016	Total Link Affected	311	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_68.json
+5-minute travel time update completed at 05:40:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_69.json
+Reading crystal output completed at Mon Aug 29 09:45:01 UTC 2016	Total Link Affected	311	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_69.json
+5-minute travel time update completed at 05:45:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_70.json
+Reading crystal output completed at Mon Aug 29 09:50:01 UTC 2016	Total Link Affected	313	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_70.json
+5-minute travel time update completed at 05:50:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_71.json
+Reading crystal output completed at Mon Aug 29 09:55:01 UTC 2016	Total Link Affected	313	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_71.json
+5-minute travel time update completed at 05:55:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+fftt is:	9999.0	 current travel time for FFRoute is:	20.828107012932666
+19.10449999999999
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_72.json
+Reading crystal output completed at Mon Aug 29 10:00:01 UTC 2016	Total Link Affected	336	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_72.json
+5-minute travel time update completed at 06:00:01
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_73.json
+Reading crystal output completed at Mon Aug 29 10:05:01 UTC 2016	Total Link Affected	336	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_73.json
+5-minute travel time update completed at 06:05:01
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_74.json
+Reading crystal output completed at Mon Aug 29 10:10:01 UTC 2016	Total Link Affected	342	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_74.json
+5-minute travel time update completed at 06:10:02
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_75.json
+Reading crystal output completed at Mon Aug 29 10:15:01 UTC 2016	Total Link Affected	345	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_75.json
+5-minute travel time update completed at 06:15:01
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_76.json
+Reading crystal output completed at Mon Aug 29 10:20:01 UTC 2016	Total Link Affected	369	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_76.json
+5-minute travel time update completed at 06:20:01
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_77.json
+Reading crystal output completed at Mon Aug 29 10:25:01 UTC 2016	Total Link Affected	369	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_77.json
+5-minute travel time update completed at 06:25:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_78.json
+Reading crystal output completed at Mon Aug 29 10:30:01 UTC 2016	Total Link Affected	378	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_78.json
+5-minute travel time update completed at 06:30:02
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_79.json
+Reading crystal output completed at Mon Aug 29 10:35:01 UTC 2016	Total Link Affected	378	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_79.json
+5-minute travel time update completed at 06:35:01
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_80.json
+Reading crystal output completed at Mon Aug 29 10:40:01 UTC 2016	Total Link Affected	378	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_80.json
+5-minute travel time update completed at 06:40:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_81.json
+Reading crystal output completed at Mon Aug 29 10:45:01 UTC 2016	Total Link Affected	393	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_81.json
+5-minute travel time update completed at 06:45:01
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_82.json
+Reading crystal output completed at Mon Aug 29 10:50:01 UTC 2016	Total Link Affected	402	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_82.json
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+5-minute travel time update completed at 06:50:02
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_83.json
+Reading crystal output completed at Mon Aug 29 10:55:01 UTC 2016	Total Link Affected	412	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_83.json
+5-minute travel time update completed at 06:55:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_84.json
+Reading crystal output completed at Mon Aug 29 11:00:01 UTC 2016	Total Link Affected	418	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_84.json
+5-minute travel time update completed at 07:00:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_85.json
+Reading crystal output completed at Mon Aug 29 11:05:01 UTC 2016	Total Link Affected	428	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_85.json
+5-minute travel time update completed at 07:05:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_86.json
+Reading crystal output completed at Mon Aug 29 11:10:01 UTC 2016	Total Link Affected	433	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_86.json
+5-minute travel time update completed at 07:10:02
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_87.json
+Reading crystal output completed at Mon Aug 29 11:15:01 UTC 2016	Total Link Affected	463	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_87.json
+5-minute travel time update completed at 07:15:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_88.json
+Reading crystal output completed at Mon Aug 29 11:20:01 UTC 2016	Total Link Affected	464	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_88.json
+5-minute travel time update completed at 07:20:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_89.json
+Reading crystal output completed at Mon Aug 29 11:25:01 UTC 2016	Total Link Affected	465	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_89.json
+5-minute travel time update completed at 07:25:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_90.json
+Reading crystal output completed at Mon Aug 29 11:30:01 UTC 2016	Total Link Affected	465	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_90.json
+5-minute travel time update completed at 07:30:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_91.json
+Reading crystal output completed at Mon Aug 29 11:35:02 UTC 2016	Total Link Affected	466	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_91.json
+5-minute travel time update completed at 07:35:02
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_92.json
+Reading crystal output completed at Mon Aug 29 11:40:01 UTC 2016	Total Link Affected	466	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_92.json
+5-minute travel time update completed at 07:40:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+fftt is:	9999.0	 current travel time for FFRoute is:	23.097328316467816
+19.10449999999999
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_93.json
+Reading crystal output completed at Mon Aug 29 11:45:01 UTC 2016	Total Link Affected	466	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_93.json
+5-minute travel time update completed at 07:45:01
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_94.json
+Reading crystal output completed at Mon Aug 29 11:50:01 UTC 2016	Total Link Affected	466	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_94.json
+5-minute travel time update completed at 07:50:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 473.0
+338783	338782	339	292268
+338782	338783	339	292268
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_95.json
+Reading crystal output completed at Mon Aug 29 11:55:01 UTC 2016	Total Link Affected	469	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_95.json
+5-minute travel time update completed at 07:55:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_96.json
+Reading crystal output completed at Mon Aug 29 12:00:01 UTC 2016	Total Link Affected	486	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_96.json
+5-minute travel time update completed at 08:00:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_97.json
+Reading crystal output completed at Mon Aug 29 12:05:01 UTC 2016	Total Link Affected	491	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_97.json
+5-minute travel time update completed at 08:05:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_98.json
+Reading crystal output completed at Mon Aug 29 12:10:01 UTC 2016	Total Link Affected	512	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_98.json
+5-minute travel time update completed at 08:10:01
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_99.json
+Reading crystal output completed at Mon Aug 29 12:15:01 UTC 2016	Total Link Affected	524	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_99.json
+5-minute travel time update completed at 08:15:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_100.json
+Reading crystal output completed at Mon Aug 29 12:20:02 UTC 2016	Total Link Affected	526	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_100.json
+5-minute travel time update completed at 08:20:02
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_101.json
+Reading crystal output completed at Mon Aug 29 12:25:01 UTC 2016	Total Link Affected	539	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_101.json
+5-minute travel time update completed at 08:25:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 505.0
+158409	99699	339	292268
+158409	99699	339	292268
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 506.0
+153514	135005	339	292268
+135005	153514	339	292268
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 525.0
+97353	91504	286057	362534
+97353	91504	286057	362534
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 540.0
+97353	91504	286057	362534
+97353	91504	286057	362534
+fftt is:	9999.0	 current travel time for FFRoute is:	5.693499999999999
+5.063499999999999
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_102.json
+Reading crystal output completed at Mon Aug 29 12:30:01 UTC 2016	Total Link Affected	566	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_102.json
+5-minute travel time update completed at 08:30:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 510.0
+60924	450089	286057	362534
+60924	450089	286057	362534
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_103.json
+Reading crystal output completed at Mon Aug 29 12:35:01 UTC 2016	Total Link Affected	592	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_103.json
+5-minute travel time update completed at 08:35:02
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_104.json
+Reading crystal output completed at Mon Aug 29 12:40:01 UTC 2016	Total Link Affected	592	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_104.json
+5-minute travel time update completed at 08:40:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_105.json
+Reading crystal output completed at Mon Aug 29 12:45:01 UTC 2016	Total Link Affected	596	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_105.json
+5-minute travel time update completed at 08:45:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_106.json
+Reading crystal output completed at Mon Aug 29 12:50:01 UTC 2016	Total Link Affected	606	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_106.json
+5-minute travel time update completed at 08:50:02
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_107.json
+Reading crystal output completed at Mon Aug 29 12:55:01 UTC 2016	Total Link Affected	613	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_107.json
+5-minute travel time update completed at 08:55:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_108.json
+Reading crystal output completed at Mon Aug 29 13:00:01 UTC 2016	Total Link Affected	629	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_108.json
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+5-minute travel time update completed at 09:00:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+fftt is:	9999.0	 current travel time for FFRoute is:	19.990249013335493
+19.10449999999999
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_109.json
+Reading crystal output completed at Mon Aug 29 13:05:01 UTC 2016	Total Link Affected	629	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_109.json
+5-minute travel time update completed at 09:05:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_110.json
+Reading crystal output completed at Mon Aug 29 13:10:01 UTC 2016	Total Link Affected	653	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_110.json
+5-minute travel time update completed at 09:10:01
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_111.json
+Reading crystal output completed at Mon Aug 29 13:15:01 UTC 2016	Total Link Affected	656	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_111.json
+5-minute travel time update completed at 09:15:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_112.json
+Reading crystal output completed at Mon Aug 29 13:20:01 UTC 2016	Total Link Affected	658	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_112.json
+5-minute travel time update completed at 09:20:01
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_113.json
+Reading crystal output completed at Mon Aug 29 13:25:01 UTC 2016	Total Link Affected	661	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_113.json
+5-minute travel time update completed at 09:25:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_114.json
+Reading crystal output completed at Mon Aug 29 13:30:01 UTC 2016	Total Link Affected	689	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_114.json
+5-minute travel time update completed at 09:30:01
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_115.json
+Reading crystal output completed at Mon Aug 29 13:35:01 UTC 2016	Total Link Affected	698	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_115.json
+5-minute travel time update completed at 09:35:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_116.json
+Reading crystal output completed at Mon Aug 29 13:40:01 UTC 2016	Total Link Affected	698	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_116.json
+5-minute travel time update completed at 09:40:01
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_117.json
+Reading crystal output completed at Mon Aug 29 13:45:01 UTC 2016	Total Link Affected	729	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_117.json
+5-minute travel time update completed at 09:45:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_118.json
+Reading crystal output completed at Mon Aug 29 13:50:01 UTC 2016	Total Link Affected	734	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_118.json
+5-minute travel time update completed at 09:50:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+fftt is:	9999.0	 current travel time for FFRoute is:	19.990249013335493
+19.10449999999999
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_119.json
+Reading crystal output completed at Mon Aug 29 13:55:01 UTC 2016	Total Link Affected	734	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_119.json
+5-minute travel time update completed at 09:55:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_120.json
+Reading crystal output completed at Mon Aug 29 14:00:01 UTC 2016	Total Link Affected	770	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_120.json
+5-minute travel time update completed at 10:00:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_121.json
+Reading crystal output completed at Mon Aug 29 14:05:01 UTC 2016	Total Link Affected	785	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_121.json
+5-minute travel time update completed at 10:05:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_122.json
+Reading crystal output completed at Mon Aug 29 14:10:01 UTC 2016	Total Link Affected	785	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_122.json
+5-minute travel time update completed at 10:10:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_123.json
+Reading crystal output completed at Mon Aug 29 14:15:01 UTC 2016	Total Link Affected	811	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_123.json
+5-minute travel time update completed at 10:15:02
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_124.json
+Reading crystal output completed at Mon Aug 29 14:20:01 UTC 2016	Total Link Affected	812	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_124.json
+5-minute travel time update completed at 10:20:01
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_125.json
+Reading crystal output completed at Mon Aug 29 14:25:01 UTC 2016	Total Link Affected	819	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_125.json
+5-minute travel time update completed at 10:25:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_126.json
+Reading crystal output completed at Mon Aug 29 14:30:01 UTC 2016	Total Link Affected	825	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_126.json
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+5-minute travel time update completed at 10:30:01
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_127.json
+Reading crystal output completed at Mon Aug 29 14:35:02 UTC 2016	Total Link Affected	828	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_127.json
+5-minute travel time update completed at 10:35:02
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_128.json
+Reading crystal output completed at Mon Aug 29 14:40:01 UTC 2016	Total Link Affected	828	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_128.json
+5-minute travel time update completed at 10:40:01
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_129.json
+Reading crystal output completed at Mon Aug 29 14:45:01 UTC 2016	Total Link Affected	828	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_129.json
+5-minute travel time update completed at 10:45:01
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_130.json
+Reading crystal output completed at Mon Aug 29 14:50:01 UTC 2016	Total Link Affected	829	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_130.json
+5-minute travel time update completed at 10:50:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_131.json
+Reading crystal output completed at Mon Aug 29 14:55:01 UTC 2016	Total Link Affected	835	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_131.json
+5-minute travel time update completed at 10:55:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+fftt is:	9999.0	 current travel time for FFRoute is:	19.990249013335493
+19.10449999999999
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_132.json
+Reading crystal output completed at Mon Aug 29 15:00:01 UTC 2016	Total Link Affected	837	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_132.json
+5-minute travel time update completed at 11:00:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_133.json
+Reading crystal output completed at Mon Aug 29 15:05:01 UTC 2016	Total Link Affected	839	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_133.json
+5-minute travel time update completed at 11:05:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_134.json
+Reading crystal output completed at Mon Aug 29 15:10:01 UTC 2016	Total Link Affected	840	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_134.json
+5-minute travel time update completed at 11:10:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+fftt is:	9999.0	 current travel time for FFRoute is:	19.990249013335493
+19.10449999999999
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_135.json
+Reading crystal output completed at Mon Aug 29 15:15:01 UTC 2016	Total Link Affected	840	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_135.json
+5-minute travel time update completed at 11:15:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_136.json
+Reading crystal output completed at Mon Aug 29 15:20:01 UTC 2016	Total Link Affected	842	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_136.json
+5-minute travel time update completed at 11:20:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_137.json
+Reading crystal output completed at Mon Aug 29 15:25:02 UTC 2016	Total Link Affected	842	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_137.json
+5-minute travel time update completed at 11:25:02
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+fftt is:	9999.0	 current travel time for FFRoute is:	19.990249013335493
+19.10449999999999
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_138.json
+Reading crystal output completed at Mon Aug 29 15:30:01 UTC 2016	Total Link Affected	842	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_138.json
+5-minute travel time update completed at 11:30:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_139.json
+Reading crystal output completed at Mon Aug 29 15:35:01 UTC 2016	Total Link Affected	848	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_139.json
+5-minute travel time update completed at 11:35:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 705.0
+376877	324091	85032	92007
+376877	324091	85032	92007
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 720.0
+376877	324091	85032	92007
+376877	324091	85032	92007
+fftt is:	9999.0	 current travel time for FFRoute is:	37.72238818467547
+26.190799749735266
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_140.json
+Reading crystal output completed at Mon Aug 29 15:40:01 UTC 2016	Total Link Affected	848	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_140.json
+5-minute travel time update completed at 11:40:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 703.0
+324091	398026	85032	92007
+398026	324091	85032	92007
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_141.json
+Reading crystal output completed at Mon Aug 29 15:45:01 UTC 2016	Total Link Affected	848	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_141.json
+5-minute travel time update completed at 11:45:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_142.json
+Reading crystal output completed at Mon Aug 29 15:50:01 UTC 2016	Total Link Affected	869	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_142.json
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+5-minute travel time update completed at 11:50:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_143.json
+Reading crystal output completed at Mon Aug 29 15:55:01 UTC 2016	Total Link Affected	869	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_143.json
+5-minute travel time update completed at 11:55:01
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_144.json
+Reading crystal output completed at Mon Aug 29 16:00:01 UTC 2016	Total Link Affected	875	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_144.json
+5-minute travel time update completed at 12:00:02
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_145.json
+Reading crystal output completed at Mon Aug 29 16:05:01 UTC 2016	Total Link Affected	878	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_145.json
+5-minute travel time update completed at 12:05:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_146.json
+Reading crystal output completed at Mon Aug 29 16:10:01 UTC 2016	Total Link Affected	878	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_146.json
+5-minute travel time update completed at 12:10:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_147.json
+Reading crystal output completed at Mon Aug 29 16:15:01 UTC 2016	Total Link Affected	878	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_147.json
+5-minute travel time update completed at 12:15:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_148.json
+Reading crystal output completed at Mon Aug 29 16:20:01 UTC 2016	Total Link Affected	878	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_148.json
+5-minute travel time update completed at 12:20:01
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_149.json
+Reading crystal output completed at Mon Aug 29 16:25:01 UTC 2016	Total Link Affected	878	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_149.json
+5-minute travel time update completed at 12:25:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_150.json
+Reading crystal output completed at Mon Aug 29 16:30:01 UTC 2016	Total Link Affected	878	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_150.json
+5-minute travel time update completed at 12:30:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 765.0
+15078	15079	105321	106032
+15078	15079	105321	106032
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 751.0
+15078	15079	105321	106032
+15078	15079	105321	106032
+fftt is:	9999.0	 current travel time for FFRoute is:	5.286999999999999
+5.247
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_151.json
+Reading crystal output completed at Mon Aug 29 16:35:01 UTC 2016	Total Link Affected	878	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_151.json
+5-minute travel time update completed at 12:35:02
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+fftt is:	9999.0	 current travel time for FFRoute is:	19.990249013335493
+19.10449999999999
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 758.0
+105321	106032	17194	124781
+105321	106032	17194	124781
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 758.0
+105321	106032	17194	124781
+105321	106032	17194	124781
+fftt is:	9999.0	 current travel time for FFRoute is:	7.782500000000001
+6.902499999999999
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_152.json
+Reading crystal output completed at Mon Aug 29 16:40:01 UTC 2016	Total Link Affected	878	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_152.json
+5-minute travel time update completed at 12:40:01
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_153.json
+Reading crystal output completed at Mon Aug 29 16:45:01 UTC 2016	Total Link Affected	878	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_153.json
+5-minute travel time update completed at 12:45:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 780.0
+136101	145747	79216	220483
+136101	145747	220483	79216
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 769.0
+136101	145747	79216	220483
+136101	145747	220483	79216
+fftt is:	9999.0	 current travel time for FFRoute is:	5.928
+6.1209999999999996
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_154.json
+Reading crystal output completed at Mon Aug 29 16:50:01 UTC 2016	Total Link Affected	878	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_154.json
+5-minute travel time update completed at 12:50:01
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_155.json
+Reading crystal output completed at Mon Aug 29 16:55:01 UTC 2016	Total Link Affected	878	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_155.json
+5-minute travel time update completed at 12:55:02
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_156.json
+Reading crystal output completed at Mon Aug 29 17:00:01 UTC 2016	Total Link Affected	880	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_156.json
+5-minute travel time update completed at 13:00:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_157.json
+Reading crystal output completed at Mon Aug 29 17:05:01 UTC 2016	Total Link Affected	882	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_157.json
+5-minute travel time update completed at 13:05:01
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_158.json
+Reading crystal output completed at Mon Aug 29 17:10:01 UTC 2016	Total Link Affected	883	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_158.json
+5-minute travel time update completed at 13:10:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 795.0
+32099	132733	284180	65873
+32099	132733	65873	284180
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 810.0
+32099	132733	284180	65873
+32099	132733	65873	284180
+fftt is:	9999.0	 current travel time for FFRoute is:	7.899653311970126
+6.995000000000002
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 795.0
+65873	99241	92073	35479
+65873	99241	35479	92073
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 810.0
+65873	99241	92073	35479
+65873	99241	35479	92073
+fftt is:	9999.0	 current travel time for FFRoute is:	10.1875
+8.807499999999997
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 795.0
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_159.json
+Reading crystal output completed at Mon Aug 29 17:15:01 UTC 2016	Total Link Affected	885	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_159.json
+20715	150114	92073	35479
+20715	150114	35479	92073
+memcache lookup failed.
+5-minute travel time update completed at 13:15:01
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_160.json
+Reading crystal output completed at Mon Aug 29 17:20:01 UTC 2016	Total Link Affected	886	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_160.json
+5-minute travel time update completed at 13:20:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 803.0
+387949	257976	92073	35479
+387949	257976	35479	92073
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 804.0
+396753	413165	92073	35479
+396753	413165	35479	92073
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 805.0
+391344	396753	92073	35479
+391344	396753	35479	92073
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_161.json
+Reading crystal output completed at Mon Aug 29 17:25:02 UTC 2016	Total Link Affected	889	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_161.json
+5-minute travel time update completed at 13:25:02
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_162.json
+Reading crystal output completed at Mon Aug 29 17:30:01 UTC 2016	Total Link Affected	889	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_162.json
+5-minute travel time update completed at 13:30:01
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_163.json
+Reading crystal output completed at Mon Aug 29 17:35:01 UTC 2016	Total Link Affected	889	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_163.json
+5-minute travel time update completed at 13:35:01
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_164.json
+Reading crystal output completed at Mon Aug 29 17:40:01 UTC 2016	Total Link Affected	889	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_164.json
+5-minute travel time update completed at 13:40:01
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_165.json
+Reading crystal output completed at Mon Aug 29 17:45:01 UTC 2016	Total Link Affected	889	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_165.json
+5-minute travel time update completed at 13:45:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_166.json
+Reading crystal output completed at Mon Aug 29 17:50:01 UTC 2016	Total Link Affected	889	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_166.json
+5-minute travel time update completed at 13:50:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_167.json
+Reading crystal output completed at Mon Aug 29 17:55:01 UTC 2016	Total Link Affected	889	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_167.json
+5-minute travel time update completed at 13:55:02
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 840.0
+144106	96936	473926	499540
+144106	96936	473926	499540
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+fftt is:	9999.0	 current travel time for FFRoute is:	19.990249013335493
+19.10449999999999
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_168.json
+Reading crystal output completed at Mon Aug 29 18:00:01 UTC 2016	Total Link Affected	893	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_168.json
+5-minute travel time update completed at 14:00:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_169.json
+Reading crystal output completed at Mon Aug 29 18:05:01 UTC 2016	Total Link Affected	896	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_169.json
+5-minute travel time update completed at 14:05:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 849.0
+25718	74833	473926	499540
+25718	74833	473926	499540
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_170.json
+Reading crystal output completed at Mon Aug 29 18:10:01 UTC 2016	Total Link Affected	896	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_170.json
+5-minute travel time update completed at 14:10:01
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_171.json
+Reading crystal output completed at Mon Aug 29 18:15:01 UTC 2016	Total Link Affected	896	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_171.json
+5-minute travel time update completed at 14:15:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_172.json
+Reading crystal output completed at Mon Aug 29 18:20:01 UTC 2016	Total Link Affected	908	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_172.json
+5-minute travel time update completed at 14:20:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_173.json
+Reading crystal output completed at Mon Aug 29 18:25:01 UTC 2016	Total Link Affected	908	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_173.json
+5-minute travel time update completed at 14:25:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+fftt is:	9999.0	 current travel time for FFRoute is:	19.990249013335493
+19.10449999999999
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_174.json
+Reading crystal output completed at Mon Aug 29 18:30:02 UTC 2016	Total Link Affected	919	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_174.json
+5-minute travel time update completed at 14:30:02
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_175.json
+Reading crystal output completed at Mon Aug 29 18:35:01 UTC 2016	Total Link Affected	919	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_175.json
+5-minute travel time update completed at 14:35:01
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_176.json
+Reading crystal output completed at Mon Aug 29 18:40:01 UTC 2016	Total Link Affected	919	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_176.json
+5-minute travel time update completed at 14:40:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 883.0
+443217	44732	76720	117909
+443217	44732	76720	117909
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 885.0
+443217	44732	76720	117909
+443217	44732	76720	117909
+fftt is:	9999.0	 current travel time for FFRoute is:	14.378802944362617
+8.932500000000001
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_177.json
+Reading crystal output completed at Mon Aug 29 18:45:01 UTC 2016	Total Link Affected	922	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_177.json
+5-minute travel time update completed at 14:45:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+fftt is:	9999.0	 current travel time for FFRoute is:	19.990249013335493
+19.10449999999999
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_178.json
+Reading crystal output completed at Mon Aug 29 18:50:01 UTC 2016	Total Link Affected	922	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_178.json
+5-minute travel time update completed at 14:50:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_179.json
+Reading crystal output completed at Mon Aug 29 18:55:01 UTC 2016	Total Link Affected	922	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_179.json
+5-minute travel time update completed at 14:55:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 896.0
+154186	120374	76720	117909
+154186	120374	76720	117909
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 898.0
+120374	477188	66391	66392
+120374	477188	66391	66392
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 900.0
+120374	477188	66391	66392
+120374	477188	66391	66392
+fftt is:	9999.0	 current travel time for FFRoute is:	14.503497906836214
+11.084999999999999
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 899.0
+115777	325090	145424	9451
+115777	325090	145424	9451
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 899.0
+115777	325090	145424	9451
+115777	325090	145424	9451
+fftt is:	9999.0	 current travel time for FFRoute is:	23.74349999999999
+18.149999999999995
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 899.0
+115777	325090	145424	9451
+115777	325090	145424	9451
+fftt is:	9999.0	 current travel time for FFRoute is:	23.74349999999999
+18.149999999999995
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 900.0
+115777	325090	145424	9451
+115777	325090	145424	9451
+fftt is:	9999.0	 current travel time for FFRoute is:	23.74349999999999
+18.149999999999995
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_180.json
+Reading crystal output completed at Mon Aug 29 19:00:01 UTC 2016	Total Link Affected	922	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_180.json
+5-minute travel time update completed at 15:00:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 930.0
+145323	125010	66391	66392
+145323	125010	66391	66392
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 902.0
+152007	130432	69242	67437
+152007	130432	67437	69242
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_181.json
+Reading crystal output completed at Mon Aug 29 19:05:01 UTC 2016	Total Link Affected	922	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_181.json
+5-minute travel time update completed at 15:05:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 915.0
+96316	66840	109504	26806
+66840	96316	109504	26806
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 906.0
+65519	327092	109504	26806
+327092	65519	109504	26806
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_182.json
+Reading crystal output completed at Mon Aug 29 19:10:01 UTC 2016	Total Link Affected	931	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_182.json
+5-minute travel time update completed at 15:10:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 913.0
+8909	8908	77837	107634
+8908	8909	77837	107634
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 914.0
+9349	8909	77837	107634
+8909	9349	77837	107634
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_183.json
+Reading crystal output completed at Mon Aug 29 19:15:01 UTC 2016	Total Link Affected	931	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_183.json
+5-minute travel time update completed at 15:15:02
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 930.0
+115567	54762	77837	107634
+54762	115567	77837	107634
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 919.0
+1203	1204	77837	107634
+1203	1204	77837	107634
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_184.json
+Reading crystal output completed at Mon Aug 29 19:20:01 UTC 2016	Total Link Affected	937	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_184.json
+5-minute travel time update completed at 15:20:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+fftt is:	9999.0	 current travel time for FFRoute is:	19.990249013335493
+19.10449999999999
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_185.json
+Reading crystal output completed at Mon Aug 29 19:25:01 UTC 2016	Total Link Affected	948	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_185.json
+5-minute travel time update completed at 15:25:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_186.json
+Reading crystal output completed at Mon Aug 29 19:30:01 UTC 2016	Total Link Affected	948	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_186.json
+5-minute travel time update completed at 15:30:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+fftt is:	9999.0	 current travel time for FFRoute is:	19.990249013335493
+19.10449999999999
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_187.json
+Reading crystal output completed at Mon Aug 29 19:35:01 UTC 2016	Total Link Affected	948	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_187.json
+5-minute travel time update completed at 15:35:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_188.json
+Reading crystal output completed at Mon Aug 29 19:40:01 UTC 2016	Total Link Affected	948	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_188.json
+5-minute travel time update completed at 15:40:02
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 944.0
+145424	9451	575186	138634
+145424	9451	575186	138634
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 944.0
+145424	9451	575186	138634
+145424	9451	575186	138634
+fftt is:	9999.0	 current travel time for FFRoute is:	25.83081922178665
+20.926242631423488
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_189.json
+Reading crystal output completed at Mon Aug 29 19:45:01 UTC 2016	Total Link Affected	948	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_189.json
+5-minute travel time update completed at 15:45:01
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_190.json
+Reading crystal output completed at Mon Aug 29 19:50:02 UTC 2016	Total Link Affected	977	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_190.json
+5-minute travel time update completed at 15:50:02
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_191.json
+Reading crystal output completed at Mon Aug 29 19:55:01 UTC 2016	Total Link Affected	977	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_191.json
+5-minute travel time update completed at 15:55:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 955.0
+530406	76085	77837	107634
+530406	76085	77837	107634
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_192.json
+Reading crystal output completed at Mon Aug 29 20:00:01 UTC 2016	Total Link Affected	977	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_192.json
+5-minute travel time update completed at 16:00:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_193.json
+Reading crystal output completed at Mon Aug 29 20:05:01 UTC 2016	Total Link Affected	977	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_193.json
+5-minute travel time update completed at 16:05:02
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_194.json
+Reading crystal output completed at Mon Aug 29 20:10:01 UTC 2016	Total Link Affected	977	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_194.json
+5-minute travel time update completed at 16:10:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_195.json
+Reading crystal output completed at Mon Aug 29 20:15:01 UTC 2016	Total Link Affected	977	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_195.json
+5-minute travel time update completed at 16:15:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_196.json
+Reading crystal output completed at Mon Aug 29 20:20:01 UTC 2016	Total Link Affected	991	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_196.json
+5-minute travel time update completed at 16:20:02
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_197.json
+Reading crystal output completed at Mon Aug 29 20:25:01 UTC 2016	Total Link Affected	991	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_197.json
+5-minute travel time update completed at 16:25:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_198.json
+Reading crystal output completed at Mon Aug 29 20:30:01 UTC 2016	Total Link Affected	991	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_198.json
+5-minute travel time update completed at 16:30:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1035.0
+16881	16882	235965	235964
+16881	16882	66143	28195
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 990.0
+16881	16882	235965	235964
+16881	16882	235964	235965
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1020.0
+16881	16882	235965	235964
+16881	16882	66143	28195
+fftt is:	9999.0	 current travel time for FFRoute is:	31.89974002818899
+31.34123087238913
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1035.0
+16881	16882	235965	235964
+16881	16882	66143	28195
+fftt is:	9999.0	 current travel time for FFRoute is:	31.89974002818899
+31.34123087238913
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 992.0
+56680	55047	235965	235964
+56680	55047	66143	28195
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_199.json
+Reading crystal output completed at Mon Aug 29 20:35:01 UTC 2016	Total Link Affected	991	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_199.json
+5-minute travel time update completed at 16:35:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 996.0
+161136	108266	235965	235964
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 996.0
+161136	108266	235965	235964
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 999.0
+74818	141954	235965	235964
+74818	141954	66143	28195
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+fftt is:	9999.0	 current travel time for FFRoute is:	19.990249013335493
+19.10449999999999
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_200.json
+Reading crystal output completed at Mon Aug 29 20:40:01 UTC 2016	Total Link Affected	991	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_200.json
+5-minute travel time update completed at 16:40:01
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_201.json
+Reading crystal output completed at Mon Aug 29 20:45:01 UTC 2016	Total Link Affected	991	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_201.json
+5-minute travel time update completed at 16:45:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1005.0
+568124	125822	235965	235964
+568124	125822	66143	28195
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1009.0
+568124	125822	235965	235964
+568124	125822	66143	28195
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_202.json
+Reading crystal output completed at Mon Aug 29 20:50:01 UTC 2016	Total Link Affected	991	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_202.json
+5-minute travel time update completed at 16:50:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1012.0
+73350	74874	235965	235964
+73350	74874	66143	28195
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_203.json
+Reading crystal output completed at Mon Aug 29 20:55:02 UTC 2016	Total Link Affected	991	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_203.json
+5-minute travel time update completed at 16:55:02
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+fftt is:	9999.0	 current travel time for FFRoute is:	19.990249013335493
+19.10449999999999
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_204.json
+Reading crystal output completed at Mon Aug 29 21:00:01 UTC 2016	Total Link Affected	991	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_204.json
+5-minute travel time update completed at 17:00:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+fftt is:	9999.0	 current travel time for FFRoute is:	19.990249013335493
+19.10449999999999
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_205.json
+Reading crystal output completed at Mon Aug 29 21:05:01 UTC 2016	Total Link Affected	991	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_205.json
+5-minute travel time update completed at 17:05:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1027.0
+1438	142990	235965	235964
+1438	142990	66143	28195
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_206.json
+Reading crystal output completed at Mon Aug 29 21:10:01 UTC 2016	Total Link Affected	991	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_206.json
+5-minute travel time update completed at 17:10:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1032.0
+153618	158011	235965	235964
+153618	158011	66143	28195
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_207.json
+Reading crystal output completed at Mon Aug 29 21:15:01 UTC 2016	Total Link Affected	991	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_207.json
+5-minute travel time update completed at 17:15:01
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_208.json
+Reading crystal output completed at Mon Aug 29 21:20:01 UTC 2016	Total Link Affected	991	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_208.json
+5-minute travel time update completed at 17:20:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1044.0
+194	195	235965	235964
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1044.0
+232	221	235965	235964
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1044.0
+232	221	235965	235964
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_209.json
+Reading crystal output completed at Mon Aug 29 21:25:02 UTC 2016	Total Link Affected	991	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_209.json
+5-minute travel time update completed at 17:25:02
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1045.0
+185	186	235965	235964
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1080.0
+361714	361713	22453	144000
+361713	361714	22453	144000
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1046.0
+71891	352996	22453	144000
+71891	352996	22453	144000
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1047.0
+186	220	235965	235964
+186	220	235964	235965
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1047.0
+186	220	235965	235964
+186	220	235964	235965
+fftt is:	9999.0	 current travel time for FFRoute is:	9.500292246194247
+5.630507719592914
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1047.0
+235	236	235965	235964
+235	236	235964	235965
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1047.0
+235	236	235965	235964
+235	236	235964	235965
+fftt is:	9999.0	 current travel time for FFRoute is:	5.76529224619425
+5.430507719592914
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1047.0
+236	123863	235965	235964
+236	123863	235964	235965
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1048.0
+162546	162937	235965	235964
+162546	162937	235964	235965
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1048.0
+140219	63799	235965	235964
+140219	63799	235964	235965
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1048.0
+63799	63800	235965	235964
+63799	63800	235964	235965
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1048.0
+63800	74240	235965	235964
+63800	74240	235964	235965
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_210.json
+Reading crystal output completed at Mon Aug 29 21:30:01 UTC 2016	Total Link Affected	991	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_210.json
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1050.0
+275193	227433	235965	235964
+275193	227433	235964	235965
+memcache lookup failed.
+5-minute travel time update completed at 17:30:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+fftt is:	9999.0	 current travel time for FFRoute is:	19.990249013335493
+19.10449999999999
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_211.json
+Reading crystal output completed at Mon Aug 29 21:35:01 UTC 2016	Total Link Affected	991	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_211.json
+5-minute travel time update completed at 17:35:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+fftt is:	9999.0	 current travel time for FFRoute is:	19.990249013335493
+19.10449999999999
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_212.json
+Reading crystal output completed at Mon Aug 29 21:40:01 UTC 2016	Total Link Affected	991	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_212.json
+5-minute travel time update completed at 17:40:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1062.0
+339	292268	338782	338783
+292268	339	338783	338782
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1080.0
+339	292268	338782	338783
+292268	339	338783	338782
+fftt is:	9999.0	 current travel time for FFRoute is:	53.3324253462835
+49.5329743499927
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1064.0
+174522	12245	338782	338783
+174522	12245	338783	338782
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_213.json
+Reading crystal output completed at Mon Aug 29 21:45:01 UTC 2016	Total Link Affected	991	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_213.json
+5-minute travel time update completed at 17:45:01
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_214.json
+Reading crystal output completed at Mon Aug 29 21:50:01 UTC 2016	Total Link Affected	1027	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_214.json
+5-minute travel time update completed at 17:50:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1073.0
+42124	84394	338782	338783
+84394	42124	338783	338782
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_215.json
+Reading crystal output completed at Mon Aug 29 21:55:01 UTC 2016	Total Link Affected	1028	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_215.json
+5-minute travel time update completed at 17:55:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_216.json
+Reading crystal output completed at Mon Aug 29 22:00:01 UTC 2016	Total Link Affected	1028	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_216.json
+5-minute travel time update completed at 18:00:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_217.json
+Reading crystal output completed at Mon Aug 29 22:05:01 UTC 2016	Total Link Affected	1032	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_217.json
+5-minute travel time update completed at 18:05:02
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_218.json
+Reading crystal output completed at Mon Aug 29 22:10:01 UTC 2016	Total Link Affected	1032	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_218.json
+5-minute travel time update completed at 18:10:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1091.0
+143844	50413	338782	338783
+143844	50413	338783	338782
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_219.json
+Reading crystal output completed at Mon Aug 29 22:15:01 UTC 2016	Total Link Affected	1033	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_219.json
+5-minute travel time update completed at 18:15:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1097.0
+79554	38899	338782	338783
+79554	38899	338783	338782
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_220.json
+Reading crystal output completed at Mon Aug 29 22:20:01 UTC 2016	Total Link Affected	1033	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_220.json
+5-minute travel time update completed at 18:20:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_221.json
+Reading crystal output completed at Mon Aug 29 22:25:01 UTC 2016	Total Link Affected	1033	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_221.json
+5-minute travel time update completed at 18:25:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+fftt is:	9999.0	 current travel time for FFRoute is:	19.990249013335493
+19.10449999999999
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1140.0
+235964	235965	67932	6764
+235965	235964	67932	6764
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1106.0
+235964	235965	67932	6764
+235965	235964	67932	6764
+fftt is:	9999.0	 current travel time for FFRoute is:	26.733165292204816
+25.065731364830484
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1107.0
+130215	22749	67932	6764
+130215	22749	67932	6764
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_222.json
+Reading crystal output completed at Mon Aug 29 22:30:01 UTC 2016	Total Link Affected	1034	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_222.json
+5-minute travel time update completed at 18:30:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1125.0
+145849	121874	442954	4363
+145849	121874	4363	442954
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1111.0
+162238	156694	442954	4363
+162238	156694	442954	4363
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_223.json
+Reading crystal output completed at Mon Aug 29 22:35:01 UTC 2016	Total Link Affected	1034	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_223.json
+5-minute travel time update completed at 18:35:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+fftt is:	9999.0	 current travel time for FFRoute is:	19.990249013335493
+19.10449999999999
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_224.json
+Reading crystal output completed at Mon Aug 29 22:40:01 UTC 2016	Total Link Affected	1037	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_224.json
+5-minute travel time update completed at 18:40:02
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_225.json
+Reading crystal output completed at Mon Aug 29 22:45:01 UTC 2016	Total Link Affected	1037	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_225.json
+5-minute travel time update completed at 18:45:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_226.json
+Reading crystal output completed at Mon Aug 29 22:50:01 UTC 2016	Total Link Affected	1037	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_226.json
+5-minute travel time update completed at 18:50:02
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+fftt is:	9999.0	 current travel time for FFRoute is:	19.990249013335493
+19.10449999999999
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_227.json
+Reading crystal output completed at Mon Aug 29 22:55:01 UTC 2016	Total Link Affected	1037	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_227.json
+5-minute travel time update completed at 18:55:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_228.json
+Reading crystal output completed at Mon Aug 29 23:00:01 UTC 2016	Total Link Affected	1037	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_228.json
+5-minute travel time update completed at 19:00:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_229.json
+Reading crystal output completed at Mon Aug 29 23:05:01 UTC 2016	Total Link Affected	1037	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_229.json
+5-minute travel time update completed at 19:05:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1155.0
+507596	220048	70885	245582
+220048	507596	245582	70885
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1170.0
+507596	220048	70885	245582
+220048	507596	245582	70885
+fftt is:	9999.0	 current travel time for FFRoute is:	9.4095
+9.0095
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_230.json
+Reading crystal output completed at Mon Aug 29 23:10:02 UTC 2016	Total Link Affected	1037	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_230.json
+5-minute travel time update completed at 19:10:02
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_231.json
+Reading crystal output completed at Mon Aug 29 23:15:01 UTC 2016	Total Link Affected	1039	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_231.json
+5-minute travel time update completed at 19:15:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_232.json
+Reading crystal output completed at Mon Aug 29 23:20:01 UTC 2016	Total Link Affected	1040	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_232.json
+5-minute travel time update completed at 19:20:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_233.json
+Reading crystal output completed at Mon Aug 29 23:25:02 UTC 2016	Total Link Affected	1040	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_233.json
+5-minute travel time update completed at 19:25:02
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_234.json
+Reading crystal output completed at Mon Aug 29 23:30:01 UTC 2016	Total Link Affected	1040	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_234.json
+5-minute travel time update completed at 19:30:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_235.json
+Reading crystal output completed at Mon Aug 29 23:35:01 UTC 2016	Total Link Affected	1040	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_235.json
+5-minute travel time update completed at 19:35:01
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_236.json
+Reading crystal output completed at Mon Aug 29 23:40:01 UTC 2016	Total Link Affected	1040	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_236.json
+5-minute travel time update completed at 19:40:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_237.json
+Reading crystal output completed at Mon Aug 29 23:45:01 UTC 2016	Total Link Affected	1040	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_237.json
+5-minute travel time update completed at 19:45:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_238.json
+Reading crystal output completed at Mon Aug 29 23:50:01 UTC 2016	Total Link Affected	1047	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_238.json
+5-minute travel time update completed at 19:50:02
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_239.json
+Reading crystal output completed at Mon Aug 29 23:55:01 UTC 2016	Total Link Affected	1047	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_239.json
+5-minute travel time update completed at 19:55:01
+Datetime process Start!
+dayofweek: 1
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_240.json
+Reading crystal output completed at Tue Aug 30 00:00:01 UTC 2016	Total Link Affected	1047	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_240.json
+5-minute travel time update completed at 20:00:01
+Datetime process Start!
+dayofweek: 2
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_241.json
+Reading crystal output completed at Tue Aug 30 00:05:01 UTC 2016	Total Link Affected	1047	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_241.json
+5-minute travel time update completed at 20:05:01
+Datetime process Start!
+dayofweek: 2
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_242.json
+Reading crystal output completed at Tue Aug 30 00:10:01 UTC 2016	Total Link Affected	1047	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_242.json
+5-minute travel time update completed at 20:10:01
+Datetime process Start!
+dayofweek: 2
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 2
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+fftt is:	9999.0	 current travel time for FFRoute is:	19.990249013335493
+19.10449999999999
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_243.json
+Reading crystal output completed at Tue Aug 30 00:15:01 UTC 2016	Total Link Affected	1066	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_243.json
+5-minute travel time update completed at 20:15:01
+Datetime process Start!
+dayofweek: 2
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_244.json
+Reading crystal output completed at Tue Aug 30 00:20:01 UTC 2016	Total Link Affected	1074	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_244.json
+5-minute travel time update completed at 20:20:01
+Datetime process Start!
+dayofweek: 2
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+fftt is:	9999.0	 current travel time for FFRoute is:	19.990249013335493
+19.10449999999999
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_245.json
+Reading crystal output completed at Tue Aug 30 00:25:01 UTC 2016	Total Link Affected	1074	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_245.json
+5-minute travel time update completed at 20:25:02
+Datetime process Start!
+dayofweek: 2
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_246.json
+Reading crystal output completed at Tue Aug 30 00:30:01 UTC 2016	Total Link Affected	1078	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_246.json
+5-minute travel time update completed at 20:30:01
+Datetime process Start!
+dayofweek: 2
+depart time in  minutes: 1232.0
+41769	41768	353531	353530
+41769	41768	353531	353530
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 2
+depart time in  minutes: 1245.0
+41769	41768	353531	353530
+41769	41768	353531	353530
+fftt is:	9999.0	 current travel time for FFRoute is:	8.345581891867532
+8.1825
+Datetime process Start!
+dayofweek: 2
+depart time in  minutes: 1233.0
+41769	41768	353531	353530
+41769	41768	353531	353530
+fftt is:	9999.0	 current travel time for FFRoute is:	8.345581891867532
+8.1825
+Datetime process Start!
+dayofweek: 2
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_247.json
+Reading crystal output completed at Tue Aug 30 00:35:01 UTC 2016	Total Link Affected	1079	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_247.json
+5-minute travel time update completed at 20:35:01
+Datetime process Start!
+dayofweek: 2
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_248.json
+Reading crystal output completed at Tue Aug 30 00:40:01 UTC 2016	Total Link Affected	1079	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_248.json
+5-minute travel time update completed at 20:40:01
+Datetime process Start!
+dayofweek: 2
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 2
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_249.json
+Reading crystal output completed at Tue Aug 30 00:45:01 UTC 2016	Total Link Affected	1079	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_249.json
+5-minute travel time update completed at 20:45:01
+Datetime process Start!
+dayofweek: 2
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 2
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_250.json
+Reading crystal output completed at Tue Aug 30 00:50:01 UTC 2016	Total Link Affected	1080	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_250.json
+5-minute travel time update completed at 20:50:01
+Datetime process Start!
+dayofweek: 2
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_251.json
+Reading crystal output completed at Tue Aug 30 00:55:01 UTC 2016	Total Link Affected	1081	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_251.json
+5-minute travel time update completed at 20:55:01
+Datetime process Start!
+dayofweek: 2
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_252.json
+Reading crystal output completed at Tue Aug 30 01:00:01 UTC 2016	Total Link Affected	1081	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_252.json
+5-minute travel time update completed at 21:00:01
+Datetime process Start!
+dayofweek: 2
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 2
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_253.json
+Reading crystal output completed at Tue Aug 30 01:05:01 UTC 2016	Total Link Affected	1083	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_253.json
+5-minute travel time update completed at 21:05:01
+Datetime process Start!
+dayofweek: 2
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_254.json
+Reading crystal output completed at Tue Aug 30 01:10:02 UTC 2016	Total Link Affected	1083	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_254.json
+5-minute travel time update completed at 21:10:02
+Datetime process Start!
+dayofweek: 2
+depart time in  minutes: 1273.0
+515145	325903	141143	488154
+515145	325903	141143	488154
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 2
+depart time in  minutes: 1290.0
+515145	325903	141143	488154
+515145	325903	141143	488154
+fftt is:	9999.0	 current travel time for FFRoute is:	64.23484817339514
+45.1200968152195
+Datetime process Start!
+dayofweek: 2
+depart time in  minutes: 1273.0
+315939	325902	141143	488154
+325902	315939	141143	488154
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_255.json
+Reading crystal output completed at Tue Aug 30 01:15:01 UTC 2016	Total Link Affected	1124	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_255.json
+5-minute travel time update completed at 21:15:01
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_256.json
+Reading crystal output completed at Tue Aug 30 01:20:01 UTC 2016	Total Link Affected	1125	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_256.json
+5-minute travel time update completed at 21:20:01
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_257.json
+Reading crystal output completed at Tue Aug 30 01:25:01 UTC 2016	Total Link Affected	1125	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_257.json
+5-minute travel time update completed at 21:25:01
+Datetime process Start!
+dayofweek: 2
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 2
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_258.json
+Reading crystal output completed at Tue Aug 30 01:30:01 UTC 2016	Total Link Affected	1125	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_258.json
+5-minute travel time update completed at 21:30:01
+Datetime process Start!
+dayofweek: 2
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_259.json
+Reading crystal output completed at Tue Aug 30 01:35:01 UTC 2016	Total Link Affected	1128	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_259.json
+5-minute travel time update completed at 21:35:01
+Datetime process Start!
+dayofweek: 2
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 2
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_260.json
+Reading crystal output completed at Tue Aug 30 01:40:01 UTC 2016	Total Link Affected	1128	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_260.json
+5-minute travel time update completed at 21:40:01
+Datetime process Start!
+dayofweek: 2
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_261.json
+Reading crystal output completed at Tue Aug 30 01:45:01 UTC 2016	Total Link Affected	1128	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_261.json
+5-minute travel time update completed at 21:45:01
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_262.json
+Reading crystal output completed at Tue Aug 30 01:50:02 UTC 2016	Total Link Affected	1128	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_262.json
+5-minute travel time update completed at 21:50:02
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_263.json
+Reading crystal output completed at Tue Aug 30 01:55:01 UTC 2016	Total Link Affected	1128	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_263.json
+5-minute travel time update completed at 21:55:01
+Datetime process Start!
+dayofweek: 2
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_264.json
+Reading crystal output completed at Tue Aug 30 02:00:01 UTC 2016	Total Link Affected	1128	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_264.json
+5-minute travel time update completed at 22:00:01
+Datetime process Start!
+dayofweek: 2
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 2
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+fftt is:	9999.0	 current travel time for FFRoute is:	19.990249013335493
+19.10449999999999
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_265.json
+Reading crystal output completed at Tue Aug 30 02:05:01 UTC 2016	Total Link Affected	1128	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_265.json
+5-minute travel time update completed at 22:05:01
+Datetime process Start!
+dayofweek: 2
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_266.json
+Reading crystal output completed at Tue Aug 30 02:10:01 UTC 2016	Total Link Affected	1128	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_266.json
+5-minute travel time update completed at 22:10:01
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_267.json
+Reading crystal output completed at Tue Aug 30 02:15:01 UTC 2016	Total Link Affected	1163	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_267.json
+5-minute travel time update completed at 22:15:01
+Datetime process Start!
+dayofweek: 2
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 2
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+19.10449999999999
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_268.json
+Reading crystal output completed at Tue Aug 30 02:20:01 UTC 2016	Total Link Affected	1163	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_268.json
+5-minute travel time update completed at 22:20:01
+Datetime process Start!
+dayofweek: 2
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_269.json
+Reading crystal output completed at Tue Aug 30 02:25:01 UTC 2016	Total Link Affected	1163	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_269.json
+5-minute travel time update completed at 22:25:01
+Datetime process Start!
+dayofweek: 2
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 2
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+fftt is:	9999.0	 current travel time for FFRoute is:	19.990249013335493
+19.10449999999999
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_270.json
+Reading crystal output completed at Tue Aug 30 02:30:01 UTC 2016	Total Link Affected	1163	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_270.json
+5-minute travel time update completed at 22:30:01
+Datetime process Start!
+dayofweek: 2
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 2
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_271.json
+Reading crystal output completed at Tue Aug 30 02:35:01 UTC 2016	Total Link Affected	1163	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_271.json
+5-minute travel time update completed at 22:35:01
+Datetime process Start!
+dayofweek: 2
+depart time in  minutes: 1357.0
+141143	488154	7867	7866
+141143	488154	7866	7867
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 2
+depart time in  minutes: 1357.0
+141143	488154	7867	7866
+141143	488154	7866	7867
+fftt is:	9999.0	 current travel time for FFRoute is:	72.61594013997177
+27.19336309891524
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_272.json
+Reading crystal output completed at Tue Aug 30 02:40:01 UTC 2016	Total Link Affected	1163	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_272.json
+5-minute travel time update completed at 22:40:01
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_273.json
+Reading crystal output completed at Tue Aug 30 02:45:01 UTC 2016	Total Link Affected	1163	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_273.json
+5-minute travel time update completed at 22:45:01
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_274.json
+Reading crystal output completed at Tue Aug 30 02:50:01 UTC 2016	Total Link Affected	1163	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_274.json
+5-minute travel time update completed at 22:50:01
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_275.json
+Reading crystal output completed at Tue Aug 30 02:55:01 UTC 2016	Total Link Affected	1163	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_275.json
+5-minute travel time update completed at 22:55:01
+Datetime process Start!
+dayofweek: 2
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Datetime process Start!
+dayofweek: 2
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+fftt is:	9999.0	 current travel time for FFRoute is:	19.990249013335493
+19.10449999999999
+Datetime process Start!
+dayofweek: 2
+depart time in  minutes: 1425.0
+131974	112923	94934	95141
+131974	112923	94934	95141
+memcache lookup failed.
+Crystal uses for this file	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_276.json
+Reading crystal output completed at Tue Aug 30 03:00:01 UTC 2016	Total Link Affected	1163	;from:	http://54.148.119.185/crystal_output/production/newyork/20160829/crystal_output_276.json
+5-minute travel time update completed at 23:00:01
